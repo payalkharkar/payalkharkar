@@ -1,7 +1,8 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]
+[![MasterHead](https://camo.githubusercontent.com/ee5e67e6657c89732a9610604b6e7d5f03f88a063a0fda2d03105b607b5fbc84/68747470733a2f2f7669736d652e636f2f626c6f672f77702d636f6e74656e742f75706c6f6164732f323031392f31302f616e696d617465642d70726573656e746174696f6e2d736f6674776172652d6865616465722d776964652e676966)]
 <h1 align="center">Hi 👋, I'm Payal kharkar</h1>
 <h3 align="center">Aspiring Data Scientist || AI Enthusiast || Machine Learning Associate</h3>
-<img align="right" alt="Coding" width="400" src="https://tenor.com/view/programming-gif-25868426">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=payalkharkar&label=Profile%20views&color=0e75b6&style=flat" alt="payalkharkar" /> </p>
 
@@ -27,4 +28,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=payalkharkar&show_icons=true&locale=en" alt="payalkharkar" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=payalkharkar&" alt="payalkharkar" /></p
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=payalkharkar&" alt="payalkharkar" /></p>
